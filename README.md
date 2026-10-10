@@ -4,7 +4,7 @@ Repository ini dibuat untuk menyelesaikan tugas kelompok *Data Structures - Doub
 
 ## Anggota Tim
 1. NABILA N ALIFAH - 103012500236
-2. Anggota 2 - NIM
+2. NABILA SYAKIRA ANDRIANI SUGEHA - 103012500315
 3. Anggota 3 - NIM
 4. Anggota 4 - NIM
 
