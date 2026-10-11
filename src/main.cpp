@@ -97,7 +97,7 @@ public:
             if (head != nullptr) head->prev = nullptr;
             else tail = nullptr;
         } else if (current == tail) {
-            tail = current->prev;
+            tail = current->prev; //sudah diuji jika ini dihilangkan
             if (tail != nullptr) tail->next = nullptr;
             else head = nullptr;
         } else {
