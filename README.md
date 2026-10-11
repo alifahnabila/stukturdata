@@ -3,9 +3,9 @@
 Repository ini dibuat untuk menyelesaikan tugas kelompok *Data Structures - Doubly Linked List Mini Lab*.
 
 ## Anggota Tim
-1. NABILA N ALIFAH - 103012500236
-2. NABILA SYAKIRA ANDRIANI SUGEHA - 103012500315
-3. TSANIA RAHMA HALIZA - 103012500276
+1. NABILA N ALIFAH - 103012500236 (Builder)
+2. NABILA SYAKIRA ANDRIANI SUGEHA - 103012500315 (Tester)
+3. TSANIA RAHMA HALIZA - 103012500276 (Reviewer)
 4. Anggota 4 - NIM
 
 ## Struktur Folder
