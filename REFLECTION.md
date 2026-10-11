@@ -9,7 +9,7 @@
 - **What I changed or fixed myself:** Menyesuaikan studi kasus program C++.
 - **GitHub Issue / PR / Commit I contributed:** Commit penambahan file `main.cpp`, `README.md`, dan dokumentasi tugas.
 
-### Individual Reflection
+### Anggota: Tsania Rahma Haliza - 103012500276
 - **Name:** Tsania Rahma Haliza
 - **My main contribution:** Code testing, verifying DLL traversal, and reviewing Pull Requests[cite: 1].
 - **What I learned about next and prev:** `next` moves forward to the subsequent node, while `prev` moves backward to the preceding node[cite: 1, 2].
@@ -17,3 +17,12 @@
 - **What AI helped me with:** Explaining concepts and formatting PR review notes[cite: 3].
 - **What I changed or fixed myself:** Verified backward traversal and updated PR comments[cite: 2].
 - **GitHub Issue / PR / Commit I contributed:** Reviewed PR #3 and committed review documentation[cite: 1, 12].
+
+## Anggota: Nabila Syakira Andriani Sugeha - 103012500315
+- **Name:** Nabila Syakira Andriani Sugeha
+- **My main contribution:** Berperan sebagai Tester untuk menguji fungsionalitas program, menjalankan *edge cases*, serta mensimulasikan dan memperbaiki *bug* pada Task 8 & 9.
+- **What I learned about next and prev:** Saya belajar bahwa pointer `next` dan `prev` harus diperbarui secara hati-hati di setiap operasi (terutama saat menangani `head` dan `tail`), karena kelalaian kecil dapat menyebabkan rantai terputus atau *segmentation fault*.
+- **The hardest part:** Memahami dampak memori ketika pointer `prev` dari node baru tidak di-set ke `nullptr` saat penghapusan node pertama.
+- **What AI helped me with:** Membantu menganalisis logika pointer yang terputus saat melakukan uji coba *break and fix* kode.
+- **What I changed or fixed myself:** Melakukan verifikasi *input* stasiun kereta, menguji skenario penghapusan node terakhir, serta memperbaiki kode pointer yang sengaja dirusak.
+- **GitHub Issue / PR / Commit I contributed:** Issue laporan pengujian Task 8 & 9, PR hasil testing dan bug fixing, serta commit dokumentasi testing.
