@@ -11,12 +11,13 @@
 
 ### Anggota: Tsania Rahma Haliza - 103012500276
 - **Name:** Tsania Rahma Haliza
-- **My main contribution:** Code testing, verifying DLL traversal, and reviewing Pull Requests.
-- **What I learned about next and prev:** `next` moves forward to the subsequent node, while `prev` moves backward to the preceding node.
-- **The hardest part:** Managing pointer updates during deletion to prevent segmentation faults.
-- **What AI helped me with:** Explaining concepts and formatting PR review notes.
-- **What I changed or fixed myself:** Verified backward traversal and updated PR comments.
-- **GitHub Issue / PR / Commit I contributed:** Reviewed PR #3 and committed review documentation.
+-	My main contribution: Code testing, verifying DLL traversal, and reviewing Pull Requests.
+-	What I learned about next and prev: next digunakan untuk berpindah ke node berikutnya (penelusuran maju), sedangkan prev menunjukkan node sebelumnya (penelusuran mundur).
+-	The hardest part: Memastikan pembaruan pointer dilakukan secara tepat saat operasi penghapusan (delete node) agar tidak terjadi segmentation fault atau pemutusan rantai list.
+-	What AI helped me with: Membantu menjelaskan konsep penelusuran Doubly Linked List dan menyusun format catatan review pada Pull Request.
+-	What I changed or fixed myself: Memverifikasi hasil keluaran backward traversal secara mandiri dan memperbarui catatan ulasan pada Pull Request.
+-	GitHub Issue / PR / Commit I contributed: Mengulas PR #3 dan mengirimkan commit dokumentasi ulasan serta refleksi individu.
+
 
 ## Anggota: Nabila Syakira Andriani Sugeha - 103012500315
 - **Name:** Nabila Syakira Andriani Sugeha
