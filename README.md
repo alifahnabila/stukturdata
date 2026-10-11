@@ -5,7 +5,7 @@ Repository ini dibuat untuk menyelesaikan tugas kelompok *Data Structures - Doub
 ## Anggota Tim
 1. NABILA N ALIFAH - 103012500236
 2. NABILA SYAKIRA ANDRIANI SUGEHA - 103012500315
-3. Anggota 3 - NIM
+3. TSANIA RAHMA HALIZA - 103012500276
 4. Anggota 4 - NIM
 
 ## Struktur Folder
@@ -15,7 +15,5 @@ Repository ini dibuat untuk menyelesaikan tugas kelompok *Data Structures - Doub
 - `REFLECTION.md`: Refleksi individu setiap anggota tim.
 
 ## Cara Menjalankan Program
-1. Pastikan compiler C++ (seperti g++) sudah terinstal.
-2. Compile file C++:
-   ```bash
+1. Compile file C++:
    g++ src/main.cpp -o main
